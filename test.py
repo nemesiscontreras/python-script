@@ -7,6 +7,6 @@
 
 import sys
 
-print("this is the current python version")
+print("this is the current python version:\n")
 print(sys.version)
 
