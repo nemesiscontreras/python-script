@@ -1,6 +1,6 @@
 # python-script
 
-###H3 In Depth Tutorial for running a Python 3 script on MAC from the terminal
+### H3 In Depth Tutorial for running a Python 3 script on MAC from the terminal
 
 
 
