@@ -1,21 +1,24 @@
 # python-script
+
 In Depth Tutorial for running a Python 3 script on MAC
 
 basis of running a python script from terminal
 
 
+1. Download and Open the test.py file in the terminal by using the command
 
--1st line needs to be  Shebang line to : 
+```cd```
+
+2. Check that the first line in the python program starts by stating the path to python3 : 
 
 ```#!/usr/bin/env python3```
 
 
-- Download and Open the test.py file in the terminal 
 
--Make the file executable by running 
+3. Make the file executable by running 
 
 ```chmod -x test.py```
 
--Run the scripy with
+-Run the script with
 
 ```./test.py```
