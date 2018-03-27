@@ -5,7 +5,8 @@
 
 
 
-1. Download and Open the test.py file in the terminal by using the command
+1. Download the python-script folder to a directory of your choice (i.e Desktop, Downloads, Documents etc)
+   Navigate to that directory using the cd command
 
 ```cd```
 
