@@ -1,6 +1,6 @@
 # python-script
 
-###  In Depth Tutorial for running a Python 3 script on MAC from the terminal
+###  In Depth Tutorial for Understanding Why Python runs version 2.7 and Python3 runs 3.x
 
 
 
