@@ -18,7 +18,7 @@
 3. To enable permission to execute the file we will use **chmod** which stands for change mode.
     Chmod is commonly used to make a file executable, readable, or writable.
     For more information about chmod check this site: [check this site](https://www.computerhope.com/unix/uchmod.htm)
-    We will use the command -x which makes the file e*x*ecutable.
+    We will use the command 755  which makes the file  executable, readable, and writable by the user.
 
 ```chmod 755 test.py```
 
