@@ -20,7 +20,7 @@
     For more information about chmod check this site: [check this site](https://www.computerhope.com/unix/uchmod.htm)
     We will use the command 755  which makes the file  executable, readable, and writable by the user.
 
-```chmod 755 test.py``` the ```chmod 755 test_two.py```
+```chmod 755 test.py``` then ```chmod 755 test_two.py```
 
 4. Run the scripts with
 
