@@ -20,7 +20,7 @@
     For more information about chmod check this site: [check this site](https://www.computerhope.com/unix/uchmod.htm)
     We will use the command -x which makes the file e*x*ecutable.
 
-```chmod -x test.py```
+```chmod 755 test.py```
 
 4. Run the script with
 
