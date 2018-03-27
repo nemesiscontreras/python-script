@@ -22,6 +22,6 @@
 
 ```chmod -x test.py```
 
--Run the script with
+4. Run the script with
 
 ```./test.py```
