@@ -1,8 +1,8 @@
 # python-script
 
-In Depth Tutorial for running a Python 3 script on MAC
+###H3 In Depth Tutorial for running a Python 3 script on MAC from the terminal
 
-basis of running a python script from terminal
+
 
 
 1. Download and Open the test.py file in the terminal by using the command
