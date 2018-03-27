@@ -15,7 +15,9 @@
 
 
 
-3. Make the file executable by running 
+3. To enable permission to execute the file we will use **chmod** which stands for change mode.
+    Chmod is commonly used to make a file executable, readable, or writable.
+    For more information about chmod check this site: [check this site](https://www.computerhope.com/unix/uchmod.htm)
 
 ```chmod -x test.py```
 
