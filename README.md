@@ -9,7 +9,7 @@
 
 ```cd```
 
-2. Check that the first line in the python program starts by stating the path to python3 : 
+2. Check that the first line in the python program starts with the **shebang** (which is the definition for this "#!") stating the path to python3 : 
 
 ```#!/usr/bin/env python3```
 
