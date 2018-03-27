@@ -11,7 +11,7 @@
 
 2. Check that the first line in the python program starts with the **shebang** (which is the definition for this "#!") stating the path to python3 : 
 
-```#!/usr/bin/env python3```
+```#!/usr/bin/env python3```    this also works: ```#!/usr/local/bin/python3```
 
 
 
