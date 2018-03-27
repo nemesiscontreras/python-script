@@ -11,7 +11,7 @@
 
 2. Check that the first line in the python program starts with the **shebang** (which is the definition for this "#!") stating the path to python3 : 
 
-```#!/usr/bin/env python3```    this also works: ```#!/usr/local/bin/python3```
+```#!/usr/bin/env python3```  Or you can use the local path depending on what you are doing  ```#!/usr/local/bin/python3```
 
 
 
@@ -20,8 +20,8 @@
     For more information about chmod check this site: [check this site](https://www.computerhope.com/unix/uchmod.htm)
     We will use the command 755  which makes the file  executable, readable, and writable by the user.
 
-```chmod 755 test.py```
+```chmod 755 test.py``` the ```chmod 755 test_two.py```
 
-4. Run the script with
+4. Run the scripts with
 
-```./test.py```
+```./test.py```   then run the second script with ```./test_two.py```  
