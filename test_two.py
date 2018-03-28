@@ -1,4 +1,5 @@
 #!/usr/local/bin/python3
+# -*- coding: UTF-8 -*-
 
 #Line 1 is the 'shebang' which tells bash to look for python 3 in /usr/bin/env python3
 
